@@ -222,10 +222,10 @@ unique_name_in_owner = true
 script = ExtResource("1_v158k")
 
 [node name="ScoreLabel" type="Label" parent="GameManager"]
-offset_left = 1029.0
-offset_top = 149.0
-offset_right = 1211.0
-offset_bottom = 172.0
+offset_left = 1044.0
+offset_top = -43.0
+offset_right = 1226.0
+offset_bottom = -20.0
 theme_override_colors/font_color = Color(0, 0, 0, 1)
 theme_override_fonts/font = ExtResource("2_h4fw4")
 theme_override_font_sizes/font_size = 8
@@ -324,10 +324,10 @@ theme_override_font_sizes/font_size = 8
 text = "The monsters lurks..."
 
 [node name="Label4" type="Label" parent="Labels"]
-offset_left = 1024.0
-offset_top = 129.0
-offset_right = 1223.0
-offset_bottom = 152.0
+offset_left = 1028.0
+offset_top = -63.0
+offset_right = 1227.0
+offset_bottom = -40.0
 theme_override_colors/font_color = Color(0, 0, 0, 1)
 theme_override_fonts/font = ExtResource("7_1l0tm")
 theme_override_font_sizes/font_size = 8
