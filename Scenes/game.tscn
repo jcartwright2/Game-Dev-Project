@@ -265,6 +265,9 @@ shape = SubResource("WorldBoundaryShape2D_i6g32")
 [node name="Coin" parent="Coins" instance=ExtResource("4_3dryh")]
 position = Vector2(-65, 25)
 
+[node name="Coin6" parent="Coins" instance=ExtResource("4_3dryh")]
+position = Vector2(444, 18)
+
 [node name="Coin2" parent="Coins" instance=ExtResource("4_3dryh")]
 position = Vector2(120, 41)
 
@@ -338,9 +341,6 @@ horizontal_alignment = 1
 
 [node name="Slime" parent="Enemies" instance=ExtResource("6_i6g32")]
 position = Vector2(130, 50)
-
-[node name="Slime2" parent="Enemies" instance=ExtResource("6_i6g32")]
-position = Vector2(590, 50)
 
 [node name="Slime3" parent="Enemies" instance=ExtResource("6_i6g32")]
 position = Vector2(900, 50)
